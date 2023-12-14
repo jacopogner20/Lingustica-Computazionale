@@ -1,0 +1,469 @@
+Il file Hardy.txt è lungo 177043 token
+Il file Dickens.txt è lungo 222784 token
+Il file Dickens.txt è più lungo del file Hardy.txt
+Il file Hardy.txt è composto da 6279 frasi
+Il file Dickens.txt è composto da 7139 frasi
+Il file Dickens.txt è composto da più frasi del file Hardy.txt
+Nel file Hardy.txt ci sono in media 28.19605032648511 tokens per ogni frase
+Nel file Dickens.txt ci sono in media 31.206611570247933 tokens per ogni frase
+Nel file Hardy.txt ci sono in media 3.831877001632372 caratteri per token
+Nel file Dickens.txt ci sono in media 3.6062329431197933 caratteri per token
+Il vocabolario del file Hardy.txt è lungo 14696 token
+Il vocabolario del file Dickens.txt è lungo 13192 token
+Il vocabolario del file Hardy.txt è più esteso del vocabolario del file Dickens.txt
+Nel file Hardy.txt il rapporto tra sostantivi e verbi è 1.3323541754091481
+Nel file Dickens.txt il rapporto tra sostantivi e verbi è 1.1481042654028435
+Le 10 POS più frequenti nel file Hardy.txt sono:
+NN con frequenza: 24889
+IN con frequenza: 19561
+DT con frequenza: 14942
+PRP con frequenza: 12555
+VBD con frequenza: 11355
+JJ con frequenza: 11237
+, con frequenza: 10357
+RB con frequenza: 9430
+NNP con frequenza: 7735
+. con frequenza: 7376
+Le 10 POS più frequenti nel file Dickens.txt sono:
+NN con frequenza: 26283
+IN con frequenza: 24418
+PRP con frequenza: 20420
+, con frequenza: 17050
+DT con frequenza: 16352
+VBD con frequenza: 15070
+JJ con frequenza: 11468
+RB con frequenza: 11440
+NNP con frequenza: 11311
+CC con frequenza: 8746
+Nei primi 1000 token del file Hardy.txt  la distribuzione degli hapax è 0.293 e ci sono 293 hapax
+Nei primi 2000 token del file Hardy.txt  la distribuzione degli hapax è 0.233 e ci sono 466 hapax
+Nei primi 3000 token del file Hardy.txt  la distribuzione degli hapax è 0.23766666666666666 e ci sono 713 hapax
+Nei primi 4000 token del file Hardy.txt  la distribuzione degli hapax è 0.2215 e ci sono 886 hapax
+Nei primi 5000 token del file Hardy.txt  la distribuzione degli hapax è 0.2088 e ci sono 1044 hapax
+Nei primi 6000 token del file Hardy.txt  la distribuzione degli hapax è 0.19916666666666666 e ci sono 1195 hapax
+Nei primi 7000 token del file Hardy.txt  la distribuzione degli hapax è 0.18857142857142858 e ci sono 1320 hapax
+Nei primi 8000 token del file Hardy.txt  la distribuzione degli hapax è 0.18175 e ci sono 1454 hapax
+Nei primi 9000 token del file Hardy.txt  la distribuzione degli hapax è 0.17777777777777778 e ci sono 1600 hapax
+Nei primi 10000 token del file Hardy.txt  la distribuzione degli hapax è 0.1679 e ci sono 1679 hapax
+Nei primi 11000 token del file Hardy.txt  la distribuzione degli hapax è 0.16063636363636363 e ci sono 1767 hapax
+Nei primi 12000 token del file Hardy.txt  la distribuzione degli hapax è 0.15533333333333332 e ci sono 1864 hapax
+Nei primi 13000 token del file Hardy.txt  la distribuzione degli hapax è 0.14923076923076922 e ci sono 1940 hapax
+Nei primi 14000 token del file Hardy.txt  la distribuzione degli hapax è 0.1432142857142857 e ci sono 2005 hapax
+Nei primi 15000 token del file Hardy.txt  la distribuzione degli hapax è 0.14126666666666668 e ci sono 2119 hapax
+Nei primi 16000 token del file Hardy.txt  la distribuzione degli hapax è 0.1385 e ci sono 2216 hapax
+Nei primi 17000 token del file Hardy.txt  la distribuzione degli hapax è 0.1363529411764706 e ci sono 2318 hapax
+Nei primi 18000 token del file Hardy.txt  la distribuzione degli hapax è 0.13155555555555556 e ci sono 2368 hapax
+Nei primi 19000 token del file Hardy.txt  la distribuzione degli hapax è 0.12705263157894736 e ci sono 2414 hapax
+Nei primi 20000 token del file Hardy.txt  la distribuzione degli hapax è 0.1236 e ci sono 2472 hapax
+Nei primi 21000 token del file Hardy.txt  la distribuzione degli hapax è 0.12104761904761904 e ci sono 2542 hapax
+Nei primi 22000 token del file Hardy.txt  la distribuzione degli hapax è 0.11772727272727272 e ci sono 2590 hapax
+Nei primi 23000 token del file Hardy.txt  la distribuzione degli hapax è 0.11569565217391305 e ci sono 2661 hapax
+Nei primi 24000 token del file Hardy.txt  la distribuzione degli hapax è 0.11416666666666667 e ci sono 2740 hapax
+Nei primi 25000 token del file Hardy.txt  la distribuzione degli hapax è 0.11328 e ci sono 2832 hapax
+Nei primi 26000 token del file Hardy.txt  la distribuzione degli hapax è 0.11142307692307692 e ci sono 2897 hapax
+Nei primi 27000 token del file Hardy.txt  la distribuzione degli hapax è 0.11059259259259259 e ci sono 2986 hapax
+Nei primi 28000 token del file Hardy.txt  la distribuzione degli hapax è 0.10878571428571429 e ci sono 3046 hapax
+Nei primi 29000 token del file Hardy.txt  la distribuzione degli hapax è 0.10713793103448276 e ci sono 3107 hapax
+Nei primi 30000 token del file Hardy.txt  la distribuzione degli hapax è 0.10536666666666666 e ci sono 3161 hapax
+Nei primi 31000 token del file Hardy.txt  la distribuzione degli hapax è 0.10387096774193548 e ci sono 3220 hapax
+Nei primi 32000 token del file Hardy.txt  la distribuzione degli hapax è 0.101875 e ci sono 3260 hapax
+Nei primi 33000 token del file Hardy.txt  la distribuzione degli hapax è 0.10009090909090909 e ci sono 3303 hapax
+Nei primi 34000 token del file Hardy.txt  la distribuzione degli hapax è 0.09805882352941177 e ci sono 3334 hapax
+Nei primi 35000 token del file Hardy.txt  la distribuzione degli hapax è 0.09765714285714286 e ci sono 3418 hapax
+Nei primi 36000 token del file Hardy.txt  la distribuzione degli hapax è 0.09605555555555556 e ci sono 3458 hapax
+Nei primi 37000 token del file Hardy.txt  la distribuzione degli hapax è 0.0952972972972973 e ci sono 3526 hapax
+Nei primi 38000 token del file Hardy.txt  la distribuzione degli hapax è 0.09515789473684211 e ci sono 3616 hapax
+Nei primi 39000 token del file Hardy.txt  la distribuzione degli hapax è 0.09438461538461539 e ci sono 3681 hapax
+Nei primi 40000 token del file Hardy.txt  la distribuzione degli hapax è 0.093325 e ci sono 3733 hapax
+Nei primi 41000 token del file Hardy.txt  la distribuzione degli hapax è 0.09260975609756097 e ci sono 3797 hapax
+Nei primi 42000 token del file Hardy.txt  la distribuzione degli hapax è 0.09183333333333334 e ci sono 3857 hapax
+Nei primi 43000 token del file Hardy.txt  la distribuzione degli hapax è 0.09102325581395349 e ci sono 3914 hapax
+Nei primi 44000 token del file Hardy.txt  la distribuzione degli hapax è 0.08997727272727273 e ci sono 3959 hapax
+Nei primi 45000 token del file Hardy.txt  la distribuzione degli hapax è 0.08986666666666666 e ci sono 4044 hapax
+Nei primi 46000 token del file Hardy.txt  la distribuzione degli hapax è 0.0895 e ci sono 4117 hapax
+Nei primi 47000 token del file Hardy.txt  la distribuzione degli hapax è 0.08904255319148936 e ci sono 4185 hapax
+Nei primi 48000 token del file Hardy.txt  la distribuzione degli hapax è 0.08783333333333333 e ci sono 4216 hapax
+Nei primi 49000 token del file Hardy.txt  la distribuzione degli hapax è 0.08653061224489796 e ci sono 4240 hapax
+Nei primi 50000 token del file Hardy.txt  la distribuzione degli hapax è 0.08572 e ci sono 4286 hapax
+Nei primi 51000 token del file Hardy.txt  la distribuzione degli hapax è 0.08549019607843138 e ci sono 4360 hapax
+Nei primi 52000 token del file Hardy.txt  la distribuzione degli hapax è 0.08525 e ci sono 4433 hapax
+Nei primi 53000 token del file Hardy.txt  la distribuzione degli hapax è 0.08450943396226415 e ci sono 4479 hapax
+Nei primi 54000 token del file Hardy.txt  la distribuzione degli hapax è 0.08398148148148148 e ci sono 4535 hapax
+Nei primi 55000 token del file Hardy.txt  la distribuzione degli hapax è 0.08358181818181819 e ci sono 4597 hapax
+Nei primi 56000 token del file Hardy.txt  la distribuzione degli hapax è 0.08255357142857143 e ci sono 4623 hapax
+Nei primi 57000 token del file Hardy.txt  la distribuzione degli hapax è 0.08170175438596491 e ci sono 4657 hapax
+Nei primi 58000 token del file Hardy.txt  la distribuzione degli hapax è 0.08125862068965517 e ci sono 4713 hapax
+Nei primi 59000 token del file Hardy.txt  la distribuzione degli hapax è 0.08081355932203389 e ci sono 4768 hapax
+Nei primi 60000 token del file Hardy.txt  la distribuzione degli hapax è 0.0799 e ci sono 4794 hapax
+Nei primi 61000 token del file Hardy.txt  la distribuzione degli hapax è 0.0791311475409836 e ci sono 4827 hapax
+Nei primi 62000 token del file Hardy.txt  la distribuzione degli hapax è 0.07837096774193548 e ci sono 4859 hapax
+Nei primi 63000 token del file Hardy.txt  la distribuzione degli hapax è 0.07747619047619048 e ci sono 4881 hapax
+Nei primi 64000 token del file Hardy.txt  la distribuzione degli hapax è 0.076671875 e ci sono 4907 hapax
+Nei primi 65000 token del file Hardy.txt  la distribuzione degli hapax è 0.07604615384615385 e ci sono 4943 hapax
+Nei primi 66000 token del file Hardy.txt  la distribuzione degli hapax è 0.0758030303030303 e ci sono 5003 hapax
+Nei primi 67000 token del file Hardy.txt  la distribuzione degli hapax è 0.07549253731343283 e ci sono 5058 hapax
+Nei primi 68000 token del file Hardy.txt  la distribuzione degli hapax è 0.07476470588235294 e ci sono 5084 hapax
+Nei primi 69000 token del file Hardy.txt  la distribuzione degli hapax è 0.07459420289855072 e ci sono 5147 hapax
+Nei primi 70000 token del file Hardy.txt  la distribuzione degli hapax è 0.07425714285714285 e ci sono 5198 hapax
+Nei primi 71000 token del file Hardy.txt  la distribuzione degli hapax è 0.07366197183098591 e ci sono 5230 hapax
+Nei primi 72000 token del file Hardy.txt  la distribuzione degli hapax è 0.07308333333333333 e ci sono 5262 hapax
+Nei primi 73000 token del file Hardy.txt  la distribuzione degli hapax è 0.07272602739726028 e ci sono 5309 hapax
+Nei primi 74000 token del file Hardy.txt  la distribuzione degli hapax è 0.07240540540540541 e ci sono 5358 hapax
+Nei primi 75000 token del file Hardy.txt  la distribuzione degli hapax è 0.07182666666666666 e ci sono 5387 hapax
+Nei primi 76000 token del file Hardy.txt  la distribuzione degli hapax è 0.07148684210526315 e ci sono 5433 hapax
+Nei primi 77000 token del file Hardy.txt  la distribuzione degli hapax è 0.0712077922077922 e ci sono 5483 hapax
+Nei primi 78000 token del file Hardy.txt  la distribuzione degli hapax è 0.07082051282051283 e ci sono 5524 hapax
+Nei primi 79000 token del file Hardy.txt  la distribuzione degli hapax è 0.07026582278481013 e ci sono 5551 hapax
+Nei primi 80000 token del file Hardy.txt  la distribuzione degli hapax è 0.0699375 e ci sono 5595 hapax
+Nei primi 81000 token del file Hardy.txt  la distribuzione degli hapax è 0.0695925925925926 e ci sono 5637 hapax
+Nei primi 82000 token del file Hardy.txt  la distribuzione degli hapax è 0.0693048780487805 e ci sono 5683 hapax
+Nei primi 83000 token del file Hardy.txt  la distribuzione degli hapax è 0.06879518072289156 e ci sono 5710 hapax
+Nei primi 84000 token del file Hardy.txt  la distribuzione degli hapax è 0.06845238095238096 e ci sono 5750 hapax
+Nei primi 85000 token del file Hardy.txt  la distribuzione degli hapax è 0.06812941176470588 e ci sono 5791 hapax
+Nei primi 86000 token del file Hardy.txt  la distribuzione degli hapax è 0.06775581395348837 e ci sono 5827 hapax
+Nei primi 87000 token del file Hardy.txt  la distribuzione degli hapax è 0.0672528735632184 e ci sono 5851 hapax
+Nei primi 88000 token del file Hardy.txt  la distribuzione degli hapax è 0.06672727272727273 e ci sono 5872 hapax
+Nei primi 89000 token del file Hardy.txt  la distribuzione degli hapax è 0.06630337078651685 e ci sono 5901 hapax
+Nei primi 90000 token del file Hardy.txt  la distribuzione degli hapax è 0.06572222222222222 e ci sono 5915 hapax
+Nei primi 91000 token del file Hardy.txt  la distribuzione degli hapax è 0.0653076923076923 e ci sono 5943 hapax
+Nei primi 92000 token del file Hardy.txt  la distribuzione degli hapax è 0.06479347826086956 e ci sono 5961 hapax
+Nei primi 93000 token del file Hardy.txt  la distribuzione degli hapax è 0.06425806451612903 e ci sono 5976 hapax
+Nei primi 94000 token del file Hardy.txt  la distribuzione degli hapax è 0.06397872340425532 e ci sono 6014 hapax
+Nei primi 95000 token del file Hardy.txt  la distribuzione degli hapax è 0.06372631578947369 e ci sono 6054 hapax
+Nei primi 96000 token del file Hardy.txt  la distribuzione degli hapax è 0.06333333333333334 e ci sono 6080 hapax
+Nei primi 97000 token del file Hardy.txt  la distribuzione degli hapax è 0.0630618556701031 e ci sono 6117 hapax
+Nei primi 98000 token del file Hardy.txt  la distribuzione degli hapax è 0.06261224489795919 e ci sono 6136 hapax
+Nei primi 99000 token del file Hardy.txt  la distribuzione degli hapax è 0.0622020202020202 e ci sono 6158 hapax
+Nei primi 100000 token del file Hardy.txt  la distribuzione degli hapax è 0.06206 e ci sono 6206 hapax
+Nei primi 101000 token del file Hardy.txt  la distribuzione degli hapax è 0.06179207920792079 e ci sono 6241 hapax
+Nei primi 102000 token del file Hardy.txt  la distribuzione degli hapax è 0.06155882352941176 e ci sono 6279 hapax
+Nei primi 103000 token del file Hardy.txt  la distribuzione degli hapax è 0.06132038834951457 e ci sono 6316 hapax
+Nei primi 104000 token del file Hardy.txt  la distribuzione degli hapax è 0.060932692307692306 e ci sono 6337 hapax
+Nei primi 105000 token del file Hardy.txt  la distribuzione degli hapax è 0.06059047619047619 e ci sono 6362 hapax
+Nei primi 106000 token del file Hardy.txt  la distribuzione degli hapax è 0.06000943396226415 e ci sono 6361 hapax
+Nei primi 107000 token del file Hardy.txt  la distribuzione degli hapax è 0.0597196261682243 e ci sono 6390 hapax
+Nei primi 108000 token del file Hardy.txt  la distribuzione degli hapax è 0.05935185185185185 e ci sono 6410 hapax
+Nei primi 109000 token del file Hardy.txt  la distribuzione degli hapax è 0.05908256880733945 e ci sono 6440 hapax
+Nei primi 110000 token del file Hardy.txt  la distribuzione degli hapax è 0.058754545454545455 e ci sono 6463 hapax
+Nei primi 111000 token del file Hardy.txt  la distribuzione degli hapax è 0.058225225225225226 e ci sono 6463 hapax
+Nei primi 112000 token del file Hardy.txt  la distribuzione degli hapax è 0.05800892857142857 e ci sono 6497 hapax
+Nei primi 113000 token del file Hardy.txt  la distribuzione degli hapax è 0.057601769911504425 e ci sono 6509 hapax
+Nei primi 114000 token del file Hardy.txt  la distribuzione degli hapax è 0.05728947368421053 e ci sono 6531 hapax
+Nei primi 115000 token del file Hardy.txt  la distribuzione degli hapax è 0.056973913043478264 e ci sono 6552 hapax
+Nei primi 116000 token del file Hardy.txt  la distribuzione degli hapax è 0.056612068965517244 e ci sono 6567 hapax
+Nei primi 117000 token del file Hardy.txt  la distribuzione degli hapax è 0.0562991452991453 e ci sono 6587 hapax
+Nei primi 118000 token del file Hardy.txt  la distribuzione degli hapax è 0.056084745762711864 e ci sono 6618 hapax
+Nei primi 119000 token del file Hardy.txt  la distribuzione degli hapax è 0.055781512605042015 e ci sono 6638 hapax
+Nei primi 120000 token del file Hardy.txt  la distribuzione degli hapax è 0.055425 e ci sono 6651 hapax
+Nei primi 121000 token del file Hardy.txt  la distribuzione degli hapax è 0.055074380165289254 e ci sono 6664 hapax
+Nei primi 122000 token del file Hardy.txt  la distribuzione degli hapax è 0.05477868852459016 e ci sono 6683 hapax
+Nei primi 123000 token del file Hardy.txt  la distribuzione degli hapax è 0.054609756097560976 e ci sono 6717 hapax
+Nei primi 124000 token del file Hardy.txt  la distribuzione degli hapax è 0.0544516129032258 e ci sono 6752 hapax
+Nei primi 125000 token del file Hardy.txt  la distribuzione degli hapax è 0.054264 e ci sono 6783 hapax
+Nei primi 126000 token del file Hardy.txt  la distribuzione degli hapax è 0.05405555555555556 e ci sono 6811 hapax
+Nei primi 127000 token del file Hardy.txt  la distribuzione degli hapax è 0.05393700787401575 e ci sono 6850 hapax
+Nei primi 128000 token del file Hardy.txt  la distribuzione degli hapax è 0.0538046875 e ci sono 6887 hapax
+Nei primi 129000 token del file Hardy.txt  la distribuzione degli hapax è 0.05346511627906977 e ci sono 6897 hapax
+Nei primi 130000 token del file Hardy.txt  la distribuzione degli hapax è 0.05319230769230769 e ci sono 6915 hapax
+Nei primi 131000 token del file Hardy.txt  la distribuzione degli hapax è 0.053 e ci sono 6943 hapax
+Nei primi 132000 token del file Hardy.txt  la distribuzione degli hapax è 0.05291666666666667 e ci sono 6985 hapax
+Nei primi 133000 token del file Hardy.txt  la distribuzione degli hapax è 0.052571428571428575 e ci sono 6992 hapax
+Nei primi 134000 token del file Hardy.txt  la distribuzione degli hapax è 0.052343283582089555 e ci sono 7014 hapax
+Nei primi 135000 token del file Hardy.txt  la distribuzione degli hapax è 0.052281481481481484 e ci sono 7058 hapax
+Nei primi 136000 token del file Hardy.txt  la distribuzione degli hapax è 0.05211029411764706 e ci sono 7087 hapax
+Nei primi 137000 token del file Hardy.txt  la distribuzione degli hapax è 0.051905109489051096 e ci sono 7111 hapax
+Nei primi 138000 token del file Hardy.txt  la distribuzione degli hapax è 0.05168840579710145 e ci sono 7133 hapax
+Nei primi 139000 token del file Hardy.txt  la distribuzione degli hapax è 0.05146762589928058 e ci sono 7154 hapax
+Nei primi 140000 token del file Hardy.txt  la distribuzione degli hapax è 0.05134285714285714 e ci sono 7188 hapax
+Nei primi 141000 token del file Hardy.txt  la distribuzione degli hapax è 0.05111347517730497 e ci sono 7207 hapax
+Nei primi 142000 token del file Hardy.txt  la distribuzione degli hapax è 0.05091549295774648 e ci sono 7230 hapax
+Nei primi 143000 token del file Hardy.txt  la distribuzione degli hapax è 0.05072027972027972 e ci sono 7253 hapax
+Nei primi 144000 token del file Hardy.txt  la distribuzione degli hapax è 0.050597222222222224 e ci sono 7286 hapax
+Nei primi 145000 token del file Hardy.txt  la distribuzione degli hapax è 0.05046206896551724 e ci sono 7317 hapax
+Nei primi 146000 token del file Hardy.txt  la distribuzione degli hapax è 0.05023972602739726 e ci sono 7335 hapax
+Nei primi 147000 token del file Hardy.txt  la distribuzione degli hapax è 0.05005442176870748 e ci sono 7358 hapax
+Nei primi 148000 token del file Hardy.txt  la distribuzione degli hapax è 0.049885135135135136 e ci sono 7383 hapax
+Nei primi 149000 token del file Hardy.txt  la distribuzione degli hapax è 0.049711409395973155 e ci sono 7407 hapax
+Nei primi 150000 token del file Hardy.txt  la distribuzione degli hapax è 0.04948 e ci sono 7422 hapax
+Nei primi 151000 token del file Hardy.txt  la distribuzione degli hapax è 0.049298013245033113 e ci sono 7444 hapax
+Nei primi 152000 token del file Hardy.txt  la distribuzione degli hapax è 0.049078947368421055 e ci sono 7460 hapax
+Nei primi 153000 token del file Hardy.txt  la distribuzione degli hapax è 0.048934640522875814 e ci sono 7487 hapax
+Nei primi 154000 token del file Hardy.txt  la distribuzione degli hapax è 0.04871428571428572 e ci sono 7502 hapax
+Nei primi 155000 token del file Hardy.txt  la distribuzione degli hapax è 0.048587096774193546 e ci sono 7531 hapax
+Nei primi 156000 token del file Hardy.txt  la distribuzione degli hapax è 0.04841025641025641 e ci sono 7552 hapax
+Nei primi 157000 token del file Hardy.txt  la distribuzione degli hapax è 0.048363057324840766 e ci sono 7593 hapax
+Nei primi 158000 token del file Hardy.txt  la distribuzione degli hapax è 0.04821518987341772 e ci sono 7618 hapax
+Nei primi 159000 token del file Hardy.txt  la distribuzione degli hapax è 0.04810062893081761 e ci sono 7648 hapax
+Nei primi 160000 token del file Hardy.txt  la distribuzione degli hapax è 0.04798125 e ci sono 7677 hapax
+Nei primi 161000 token del file Hardy.txt  la distribuzione degli hapax è 0.04775776397515528 e ci sono 7689 hapax
+Nei primi 162000 token del file Hardy.txt  la distribuzione degli hapax è 0.047734567901234565 e ci sono 7733 hapax
+Nei primi 163000 token del file Hardy.txt  la distribuzione degli hapax è 0.04758895705521472 e ci sono 7757 hapax
+Nei primi 164000 token del file Hardy.txt  la distribuzione degli hapax è 0.047384146341463415 e ci sono 7771 hapax
+Nei primi 165000 token del file Hardy.txt  la distribuzione degli hapax è 0.0470969696969697 e ci sono 7771 hapax
+Nei primi 166000 token del file Hardy.txt  la distribuzione degli hapax è 0.04691566265060241 e ci sono 7788 hapax
+Nei primi 167000 token del file Hardy.txt  la distribuzione degli hapax è 0.04665269461077844 e ci sono 7791 hapax
+Nei primi 168000 token del file Hardy.txt  la distribuzione degli hapax è 0.04658333333333333 e ci sono 7826 hapax
+Nei primi 169000 token del file Hardy.txt  la distribuzione degli hapax è 0.046449704142011834 e ci sono 7850 hapax
+Nei primi 170000 token del file Hardy.txt  la distribuzione degli hapax è 0.046294117647058826 e ci sono 7870 hapax
+Nei primi 171000 token del file Hardy.txt  la distribuzione degli hapax è 0.04608187134502924 e ci sono 7880 hapax
+Nei primi 172000 token del file Hardy.txt  la distribuzione degli hapax è 0.045959302325581396 e ci sono 7905 hapax
+Nei primi 173000 token del file Hardy.txt  la distribuzione degli hapax è 0.045791907514450864 e ci sono 7922 hapax
+Nei primi 174000 token del file Hardy.txt  la distribuzione degli hapax è 0.04563793103448276 e ci sono 7941 hapax
+Nei primi 175000 token del file Hardy.txt  la distribuzione degli hapax è 0.04553142857142857 e ci sono 7968 hapax
+Nei primi 176000 token del file Hardy.txt  la distribuzione degli hapax è 0.04535795454545455 e ci sono 7983 hapax
+Nei primi 177000 token del file Hardy.txt  la distribuzione degli hapax è 0.04531073446327684 e ci sono 8020 hapax
+Nei primi 1000 token del file Dickens.txt  la distribuzione degli hapax è 0.287 e ci sono 287 hapax
+Nei primi 2000 token del file Dickens.txt  la distribuzione degli hapax è 0.188 e ci sono 376 hapax
+Nei primi 3000 token del file Dickens.txt  la distribuzione degli hapax è 0.17666666666666667 e ci sono 530 hapax
+Nei primi 4000 token del file Dickens.txt  la distribuzione degli hapax è 0.16075 e ci sono 643 hapax
+Nei primi 5000 token del file Dickens.txt  la distribuzione degli hapax è 0.1508 e ci sono 754 hapax
+Nei primi 6000 token del file Dickens.txt  la distribuzione degli hapax è 0.13833333333333334 e ci sono 830 hapax
+Nei primi 7000 token del file Dickens.txt  la distribuzione degli hapax è 0.133 e ci sono 931 hapax
+Nei primi 8000 token del file Dickens.txt  la distribuzione degli hapax è 0.1265 e ci sono 1012 hapax
+Nei primi 9000 token del file Dickens.txt  la distribuzione degli hapax è 0.12266666666666666 e ci sono 1104 hapax
+Nei primi 10000 token del file Dickens.txt  la distribuzione degli hapax è 0.1246 e ci sono 1246 hapax
+Nei primi 11000 token del file Dickens.txt  la distribuzione degli hapax è 0.12218181818181818 e ci sono 1344 hapax
+Nei primi 12000 token del file Dickens.txt  la distribuzione degli hapax è 0.11916666666666667 e ci sono 1430 hapax
+Nei primi 13000 token del file Dickens.txt  la distribuzione degli hapax è 0.1163076923076923 e ci sono 1512 hapax
+Nei primi 14000 token del file Dickens.txt  la distribuzione degli hapax è 0.11257142857142857 e ci sono 1576 hapax
+Nei primi 15000 token del file Dickens.txt  la distribuzione degli hapax è 0.1072 e ci sono 1608 hapax
+Nei primi 16000 token del file Dickens.txt  la distribuzione degli hapax è 0.1035625 e ci sono 1657 hapax
+Nei primi 17000 token del file Dickens.txt  la distribuzione degli hapax è 0.0998235294117647 e ci sono 1697 hapax
+Nei primi 18000 token del file Dickens.txt  la distribuzione degli hapax è 0.09722222222222222 e ci sono 1750 hapax
+Nei primi 19000 token del file Dickens.txt  la distribuzione degli hapax è 0.09652631578947368 e ci sono 1834 hapax
+Nei primi 20000 token del file Dickens.txt  la distribuzione degli hapax è 0.0969 e ci sono 1938 hapax
+Nei primi 21000 token del file Dickens.txt  la distribuzione degli hapax è 0.09485714285714286 e ci sono 1992 hapax
+Nei primi 22000 token del file Dickens.txt  la distribuzione degli hapax è 0.0925 e ci sono 2035 hapax
+Nei primi 23000 token del file Dickens.txt  la distribuzione degli hapax è 0.09073913043478261 e ci sono 2087 hapax
+Nei primi 24000 token del file Dickens.txt  la distribuzione degli hapax è 0.089375 e ci sono 2145 hapax
+Nei primi 25000 token del file Dickens.txt  la distribuzione degli hapax è 0.08788 e ci sono 2197 hapax
+Nei primi 26000 token del file Dickens.txt  la distribuzione degli hapax è 0.08665384615384615 e ci sono 2253 hapax
+Nei primi 27000 token del file Dickens.txt  la distribuzione degli hapax è 0.08425925925925926 e ci sono 2275 hapax
+Nei primi 28000 token del file Dickens.txt  la distribuzione degli hapax è 0.08260714285714285 e ci sono 2313 hapax
+Nei primi 29000 token del file Dickens.txt  la distribuzione degli hapax è 0.08141379310344828 e ci sono 2361 hapax
+Nei primi 30000 token del file Dickens.txt  la distribuzione degli hapax è 0.08003333333333333 e ci sono 2401 hapax
+Nei primi 31000 token del file Dickens.txt  la distribuzione degli hapax è 0.07887096774193549 e ci sono 2445 hapax
+Nei primi 32000 token del file Dickens.txt  la distribuzione degli hapax è 0.07728125 e ci sono 2473 hapax
+Nei primi 33000 token del file Dickens.txt  la distribuzione degli hapax è 0.0767878787878788 e ci sono 2534 hapax
+Nei primi 34000 token del file Dickens.txt  la distribuzione degli hapax è 0.07573529411764705 e ci sono 2575 hapax
+Nei primi 35000 token del file Dickens.txt  la distribuzione degli hapax è 0.07505714285714286 e ci sono 2627 hapax
+Nei primi 36000 token del file Dickens.txt  la distribuzione degli hapax è 0.07413888888888889 e ci sono 2669 hapax
+Nei primi 37000 token del file Dickens.txt  la distribuzione degli hapax è 0.07321621621621621 e ci sono 2709 hapax
+Nei primi 38000 token del file Dickens.txt  la distribuzione degli hapax è 0.07210526315789474 e ci sono 2740 hapax
+Nei primi 39000 token del file Dickens.txt  la distribuzione degli hapax è 0.0716923076923077 e ci sono 2796 hapax
+Nei primi 40000 token del file Dickens.txt  la distribuzione degli hapax è 0.07065 e ci sono 2826 hapax
+Nei primi 41000 token del file Dickens.txt  la distribuzione degli hapax è 0.06936585365853659 e ci sono 2844 hapax
+Nei primi 42000 token del file Dickens.txt  la distribuzione degli hapax è 0.06826190476190476 e ci sono 2867 hapax
+Nei primi 43000 token del file Dickens.txt  la distribuzione degli hapax è 0.06806976744186047 e ci sono 2927 hapax
+Nei primi 44000 token del file Dickens.txt  la distribuzione degli hapax è 0.06793181818181818 e ci sono 2989 hapax
+Nei primi 45000 token del file Dickens.txt  la distribuzione degli hapax è 0.06722222222222222 e ci sono 3025 hapax
+Nei primi 46000 token del file Dickens.txt  la distribuzione degli hapax è 0.06606521739130435 e ci sono 3039 hapax
+Nei primi 47000 token del file Dickens.txt  la distribuzione degli hapax è 0.06514893617021277 e ci sono 3062 hapax
+Nei primi 48000 token del file Dickens.txt  la distribuzione degli hapax è 0.0649375 e ci sono 3117 hapax
+Nei primi 49000 token del file Dickens.txt  la distribuzione degli hapax è 0.06461224489795918 e ci sono 3166 hapax
+Nei primi 50000 token del file Dickens.txt  la distribuzione degli hapax è 0.06422 e ci sono 3211 hapax
+Nei primi 51000 token del file Dickens.txt  la distribuzione degli hapax è 0.06411764705882353 e ci sono 3270 hapax
+Nei primi 52000 token del file Dickens.txt  la distribuzione degli hapax è 0.06334615384615384 e ci sono 3294 hapax
+Nei primi 53000 token del file Dickens.txt  la distribuzione degli hapax è 0.06277358490566037 e ci sono 3327 hapax
+Nei primi 54000 token del file Dickens.txt  la distribuzione degli hapax è 0.06214814814814815 e ci sono 3356 hapax
+Nei primi 55000 token del file Dickens.txt  la distribuzione degli hapax è 0.06170909090909091 e ci sono 3394 hapax
+Nei primi 56000 token del file Dickens.txt  la distribuzione degli hapax è 0.061535714285714284 e ci sono 3446 hapax
+Nei primi 57000 token del file Dickens.txt  la distribuzione degli hapax è 0.060894736842105265 e ci sono 3471 hapax
+Nei primi 58000 token del file Dickens.txt  la distribuzione degli hapax è 0.060103448275862066 e ci sono 3486 hapax
+Nei primi 59000 token del file Dickens.txt  la distribuzione degli hapax è 0.059576271186440675 e ci sono 3515 hapax
+Nei primi 60000 token del file Dickens.txt  la distribuzione degli hapax è 0.05878333333333333 e ci sono 3527 hapax
+Nei primi 61000 token del file Dickens.txt  la distribuzione degli hapax è 0.05875409836065574 e ci sono 3584 hapax
+Nei primi 62000 token del file Dickens.txt  la distribuzione degli hapax è 0.057983870967741935 e ci sono 3595 hapax
+Nei primi 63000 token del file Dickens.txt  la distribuzione degli hapax è 0.05723809523809524 e ci sono 3606 hapax
+Nei primi 64000 token del file Dickens.txt  la distribuzione degli hapax è 0.056671875 e ci sono 3627 hapax
+Nei primi 65000 token del file Dickens.txt  la distribuzione degli hapax è 0.05629230769230769 e ci sono 3659 hapax
+Nei primi 66000 token del file Dickens.txt  la distribuzione degli hapax è 0.05557575757575758 e ci sono 3668 hapax
+Nei primi 67000 token del file Dickens.txt  la distribuzione degli hapax è 0.05501492537313433 e ci sono 3686 hapax
+Nei primi 68000 token del file Dickens.txt  la distribuzione degli hapax è 0.05445588235294117 e ci sono 3703 hapax
+Nei primi 69000 token del file Dickens.txt  la distribuzione degli hapax è 0.054 e ci sono 3726 hapax
+Nei primi 70000 token del file Dickens.txt  la distribuzione degli hapax è 0.053771428571428574 e ci sono 3764 hapax
+Nei primi 71000 token del file Dickens.txt  la distribuzione degli hapax è 0.05347887323943662 e ci sono 3797 hapax
+Nei primi 72000 token del file Dickens.txt  la distribuzione degli hapax è 0.05311111111111111 e ci sono 3824 hapax
+Nei primi 73000 token del file Dickens.txt  la distribuzione degli hapax è 0.05264383561643836 e ci sono 3843 hapax
+Nei primi 74000 token del file Dickens.txt  la distribuzione degli hapax è 0.05233783783783784 e ci sono 3873 hapax
+Nei primi 75000 token del file Dickens.txt  la distribuzione degli hapax è 0.05214666666666667 e ci sono 3911 hapax
+Nei primi 76000 token del file Dickens.txt  la distribuzione degli hapax è 0.05173684210526316 e ci sono 3932 hapax
+Nei primi 77000 token del file Dickens.txt  la distribuzione degli hapax è 0.0515974025974026 e ci sono 3973 hapax
+Nei primi 78000 token del file Dickens.txt  la distribuzione degli hapax è 0.05134615384615385 e ci sono 4005 hapax
+Nei primi 79000 token del file Dickens.txt  la distribuzione degli hapax è 0.051544303797468355 e ci sono 4072 hapax
+Nei primi 80000 token del file Dickens.txt  la distribuzione degli hapax è 0.05115 e ci sono 4092 hapax
+Nei primi 81000 token del file Dickens.txt  la distribuzione degli hapax è 0.050839506172839506 e ci sono 4118 hapax
+Nei primi 82000 token del file Dickens.txt  la distribuzione degli hapax è 0.050719512195121955 e ci sono 4159 hapax
+Nei primi 83000 token del file Dickens.txt  la distribuzione degli hapax è 0.05033734939759036 e ci sono 4178 hapax
+Nei primi 84000 token del file Dickens.txt  la distribuzione degli hapax è 0.05025 e ci sono 4221 hapax
+Nei primi 85000 token del file Dickens.txt  la distribuzione degli hapax è 0.050094117647058824 e ci sono 4258 hapax
+Nei primi 86000 token del file Dickens.txt  la distribuzione degli hapax è 0.04977906976744186 e ci sono 4281 hapax
+Nei primi 87000 token del file Dickens.txt  la distribuzione degli hapax è 0.04939080459770115 e ci sono 4297 hapax
+Nei primi 88000 token del file Dickens.txt  la distribuzione degli hapax è 0.04913636363636364 e ci sono 4324 hapax
+Nei primi 89000 token del file Dickens.txt  la distribuzione degli hapax è 0.04891011235955056 e ci sono 4353 hapax
+Nei primi 90000 token del file Dickens.txt  la distribuzione degli hapax è 0.04838888888888889 e ci sono 4355 hapax
+Nei primi 91000 token del file Dickens.txt  la distribuzione degli hapax è 0.048274725274725275 e ci sono 4393 hapax
+Nei primi 92000 token del file Dickens.txt  la distribuzione degli hapax è 0.04803260869565217 e ci sono 4419 hapax
+Nei primi 93000 token del file Dickens.txt  la distribuzione degli hapax è 0.04778494623655914 e ci sono 4444 hapax
+Nei primi 94000 token del file Dickens.txt  la distribuzione degli hapax è 0.04747872340425532 e ci sono 4463 hapax
+Nei primi 95000 token del file Dickens.txt  la distribuzione degli hapax è 0.04736842105263158 e ci sono 4500 hapax
+Nei primi 96000 token del file Dickens.txt  la distribuzione degli hapax è 0.047052083333333335 e ci sono 4517 hapax
+Nei primi 97000 token del file Dickens.txt  la distribuzione degli hapax è 0.04679381443298969 e ci sono 4539 hapax
+Nei primi 98000 token del file Dickens.txt  la distribuzione degli hapax è 0.04626530612244898 e ci sono 4534 hapax
+Nei primi 99000 token del file Dickens.txt  la distribuzione degli hapax è 0.04595959595959596 e ci sono 4550 hapax
+Nei primi 100000 token del file Dickens.txt  la distribuzione degli hapax è 0.04571 e ci sono 4571 hapax
+Nei primi 101000 token del file Dickens.txt  la distribuzione degli hapax è 0.04557425742574257 e ci sono 4603 hapax
+Nei primi 102000 token del file Dickens.txt  la distribuzione degli hapax è 0.04546078431372549 e ci sono 4637 hapax
+Nei primi 103000 token del file Dickens.txt  la distribuzione degli hapax è 0.04533980582524272 e ci sono 4670 hapax
+Nei primi 104000 token del file Dickens.txt  la distribuzione degli hapax è 0.045230769230769234 e ci sono 4704 hapax
+Nei primi 105000 token del file Dickens.txt  la distribuzione degli hapax è 0.045142857142857144 e ci sono 4740 hapax
+Nei primi 106000 token del file Dickens.txt  la distribuzione degli hapax è 0.045122641509433965 e ci sono 4783 hapax
+Nei primi 107000 token del file Dickens.txt  la distribuzione degli hapax è 0.04474766355140187 e ci sono 4788 hapax
+Nei primi 108000 token del file Dickens.txt  la distribuzione degli hapax è 0.044453703703703704 e ci sono 4801 hapax
+Nei primi 109000 token del file Dickens.txt  la distribuzione degli hapax è 0.044192660550458715 e ci sono 4817 hapax
+Nei primi 110000 token del file Dickens.txt  la distribuzione degli hapax è 0.04391818181818182 e ci sono 4831 hapax
+Nei primi 111000 token del file Dickens.txt  la distribuzione degli hapax è 0.043684684684684685 e ci sono 4849 hapax
+Nei primi 112000 token del file Dickens.txt  la distribuzione degli hapax è 0.04341071428571429 e ci sono 4862 hapax
+Nei primi 113000 token del file Dickens.txt  la distribuzione degli hapax è 0.0433716814159292 e ci sono 4901 hapax
+Nei primi 114000 token del file Dickens.txt  la distribuzione degli hapax è 0.0431140350877193 e ci sono 4915 hapax
+Nei primi 115000 token del file Dickens.txt  la distribuzione degli hapax è 0.04280869565217391 e ci sono 4923 hapax
+Nei primi 116000 token del file Dickens.txt  la distribuzione degli hapax è 0.04275862068965517 e ci sono 4960 hapax
+Nei primi 117000 token del file Dickens.txt  la distribuzione degli hapax è 0.04254700854700855 e ci sono 4978 hapax
+Nei primi 118000 token del file Dickens.txt  la distribuzione degli hapax è 0.042305084745762715 e ci sono 4992 hapax
+Nei primi 119000 token del file Dickens.txt  la distribuzione degli hapax è 0.042100840336134454 e ci sono 5010 hapax
+Nei primi 120000 token del file Dickens.txt  la distribuzione degli hapax è 0.042041666666666665 e ci sono 5045 hapax
+Nei primi 121000 token del file Dickens.txt  la distribuzione degli hapax è 0.04196694214876033 e ci sono 5078 hapax
+Nei primi 122000 token del file Dickens.txt  la distribuzione degli hapax è 0.04181147540983607 e ci sono 5101 hapax
+Nei primi 123000 token del file Dickens.txt  la distribuzione degli hapax è 0.04172357723577236 e ci sono 5132 hapax
+Nei primi 124000 token del file Dickens.txt  la distribuzione degli hapax è 0.041459677419354836 e ci sono 5141 hapax
+Nei primi 125000 token del file Dickens.txt  la distribuzione degli hapax è 0.041416 e ci sono 5177 hapax
+Nei primi 126000 token del file Dickens.txt  la distribuzione degli hapax è 0.04134126984126984 e ci sono 5209 hapax
+Nei primi 127000 token del file Dickens.txt  la distribuzione degli hapax è 0.04116535433070866 e ci sono 5228 hapax
+Nei primi 128000 token del file Dickens.txt  la distribuzione degli hapax è 0.040921875 e ci sono 5238 hapax
+Nei primi 129000 token del file Dickens.txt  la distribuzione degli hapax è 0.04074418604651163 e ci sono 5256 hapax
+Nei primi 130000 token del file Dickens.txt  la distribuzione degli hapax è 0.04051538461538461 e ci sono 5267 hapax
+Nei primi 131000 token del file Dickens.txt  la distribuzione degli hapax è 0.04035114503816794 e ci sono 5286 hapax
+Nei primi 132000 token del file Dickens.txt  la distribuzione degli hapax è 0.04009848484848485 e ci sono 5293 hapax
+Nei primi 133000 token del file Dickens.txt  la distribuzione degli hapax è 0.03987218045112782 e ci sono 5303 hapax
+Nei primi 134000 token del file Dickens.txt  la distribuzione degli hapax è 0.039664179104477615 e ci sono 5315 hapax
+Nei primi 135000 token del file Dickens.txt  la distribuzione degli hapax è 0.03939259259259259 e ci sono 5318 hapax
+Nei primi 136000 token del file Dickens.txt  la distribuzione degli hapax è 0.03929411764705883 e ci sono 5344 hapax
+Nei primi 137000 token del file Dickens.txt  la distribuzione degli hapax è 0.03913138686131387 e ci sono 5361 hapax
+Nei primi 138000 token del file Dickens.txt  la distribuzione degli hapax è 0.03897101449275362 e ci sono 5378 hapax
+Nei primi 139000 token del file Dickens.txt  la distribuzione degli hapax è 0.03869064748201439 e ci sono 5378 hapax
+Nei primi 140000 token del file Dickens.txt  la distribuzione degli hapax è 0.03845 e ci sono 5383 hapax
+Nei primi 141000 token del file Dickens.txt  la distribuzione degli hapax è 0.03830496453900709 e ci sono 5401 hapax
+Nei primi 142000 token del file Dickens.txt  la distribuzione degli hapax è 0.03816901408450704 e ci sono 5420 hapax
+Nei primi 143000 token del file Dickens.txt  la distribuzione degli hapax è 0.03822377622377622 e ci sono 5466 hapax
+Nei primi 144000 token del file Dickens.txt  la distribuzione degli hapax è 0.03805555555555556 e ci sono 5480 hapax
+Nei primi 145000 token del file Dickens.txt  la distribuzione degli hapax è 0.0378551724137931 e ci sono 5489 hapax
+Nei primi 146000 token del file Dickens.txt  la distribuzione degli hapax è 0.03762328767123288 e ci sono 5493 hapax
+Nei primi 147000 token del file Dickens.txt  la distribuzione degli hapax è 0.03750340136054422 e ci sono 5513 hapax
+Nei primi 148000 token del file Dickens.txt  la distribuzione degli hapax è 0.03733108108108108 e ci sono 5525 hapax
+Nei primi 149000 token del file Dickens.txt  la distribuzione degli hapax è 0.03723489932885906 e ci sono 5548 hapax
+Nei primi 150000 token del file Dickens.txt  la distribuzione degli hapax è 0.03708 e ci sono 5562 hapax
+Nei primi 151000 token del file Dickens.txt  la distribuzione degli hapax è 0.03690066225165563 e ci sono 5572 hapax
+Nei primi 152000 token del file Dickens.txt  la distribuzione degli hapax è 0.03673684210526316 e ci sono 5584 hapax
+Nei primi 153000 token del file Dickens.txt  la distribuzione degli hapax è 0.03666013071895425 e ci sono 5609 hapax
+Nei primi 154000 token del file Dickens.txt  la distribuzione degli hapax è 0.03648051948051948 e ci sono 5618 hapax
+Nei primi 155000 token del file Dickens.txt  la distribuzione degli hapax è 0.03636129032258065 e ci sono 5636 hapax
+Nei primi 156000 token del file Dickens.txt  la distribuzione degli hapax è 0.036166666666666666 e ci sono 5642 hapax
+Nei primi 157000 token del file Dickens.txt  la distribuzione degli hapax è 0.03596178343949045 e ci sono 5646 hapax
+Nei primi 158000 token del file Dickens.txt  la distribuzione degli hapax è 0.03589240506329114 e ci sono 5671 hapax
+Nei primi 159000 token del file Dickens.txt  la distribuzione degli hapax è 0.035836477987421386 e ci sono 5698 hapax
+Nei primi 160000 token del file Dickens.txt  la distribuzione degli hapax è 0.03576875 e ci sono 5723 hapax
+Nei primi 161000 token del file Dickens.txt  la distribuzione degli hapax è 0.035701863354037265 e ci sono 5748 hapax
+Nei primi 162000 token del file Dickens.txt  la distribuzione degli hapax è 0.035506172839506175 e ci sono 5752 hapax
+Nei primi 163000 token del file Dickens.txt  la distribuzione degli hapax è 0.035392638036809816 e ci sono 5769 hapax
+Nei primi 164000 token del file Dickens.txt  la distribuzione degli hapax è 0.035298780487804875 e ci sono 5789 hapax
+Nei primi 165000 token del file Dickens.txt  la distribuzione degli hapax è 0.03518181818181818 e ci sono 5805 hapax
+Nei primi 166000 token del file Dickens.txt  la distribuzione degli hapax è 0.03491566265060241 e ci sono 5796 hapax
+Nei primi 167000 token del file Dickens.txt  la distribuzione degli hapax è 0.03474850299401198 e ci sono 5803 hapax
+Nei primi 168000 token del file Dickens.txt  la distribuzione degli hapax è 0.034708333333333334 e ci sono 5831 hapax
+Nei primi 169000 token del file Dickens.txt  la distribuzione degli hapax è 0.03459171597633136 e ci sono 5846 hapax
+Nei primi 170000 token del file Dickens.txt  la distribuzione degli hapax è 0.0345235294117647 e ci sono 5869 hapax
+Nei primi 171000 token del file Dickens.txt  la distribuzione degli hapax è 0.0344093567251462 e ci sono 5884 hapax
+Nei primi 172000 token del file Dickens.txt  la distribuzione degli hapax è 0.034348837209302326 e ci sono 5908 hapax
+Nei primi 173000 token del file Dickens.txt  la distribuzione degli hapax è 0.03423699421965318 e ci sono 5923 hapax
+Nei primi 174000 token del file Dickens.txt  la distribuzione degli hapax è 0.03406896551724138 e ci sono 5928 hapax
+Nei primi 175000 token del file Dickens.txt  la distribuzione degli hapax è 0.03399428571428571 e ci sono 5949 hapax
+Nei primi 176000 token del file Dickens.txt  la distribuzione degli hapax è 0.033982954545454545 e ci sono 5981 hapax
+Nei primi 177000 token del file Dickens.txt  la distribuzione degli hapax è 0.033757062146892655 e ci sono 5975 hapax
+Nei primi 178000 token del file Dickens.txt  la distribuzione degli hapax è 0.03356741573033708 e ci sono 5975 hapax
+Nei primi 179000 token del file Dickens.txt  la distribuzione degli hapax è 0.03346927374301676 e ci sono 5991 hapax
+Nei primi 180000 token del file Dickens.txt  la distribuzione degli hapax è 0.033327777777777776 e ci sono 5999 hapax
+Nei primi 181000 token del file Dickens.txt  la distribuzione degli hapax è 0.033248618784530386 e ci sono 6018 hapax
+Nei primi 182000 token del file Dickens.txt  la distribuzione degli hapax è 0.03308241758241758 e ci sono 6021 hapax
+Nei primi 183000 token del file Dickens.txt  la distribuzione degli hapax è 0.03292896174863388 e ci sono 6026 hapax
+Nei primi 184000 token del file Dickens.txt  la distribuzione degli hapax è 0.03275543478260869 e ci sono 6027 hapax
+Nei primi 185000 token del file Dickens.txt  la distribuzione degli hapax è 0.03262162162162162 e ci sono 6035 hapax
+Nei primi 186000 token del file Dickens.txt  la distribuzione degli hapax è 0.03253225806451613 e ci sono 6051 hapax
+Nei primi 187000 token del file Dickens.txt  la distribuzione degli hapax è 0.032401069518716574 e ci sono 6059 hapax
+Nei primi 188000 token del file Dickens.txt  la distribuzione degli hapax è 0.03228191489361702 e ci sono 6069 hapax
+Nei primi 189000 token del file Dickens.txt  la distribuzione degli hapax è 0.032179894179894176 e ci sono 6082 hapax
+Nei primi 190000 token del file Dickens.txt  la distribuzione degli hapax è 0.0321 e ci sono 6099 hapax
+Nei primi 191000 token del file Dickens.txt  la distribuzione degli hapax è 0.03202094240837696 e ci sono 6116 hapax
+Nei primi 192000 token del file Dickens.txt  la distribuzione degli hapax è 0.0319375 e ci sono 6132 hapax
+Nei primi 193000 token del file Dickens.txt  la distribuzione degli hapax è 0.031865284974093265 e ci sono 6150 hapax
+Nei primi 194000 token del file Dickens.txt  la distribuzione degli hapax è 0.03174742268041237 e ci sono 6159 hapax
+Nei primi 195000 token del file Dickens.txt  la distribuzione degli hapax è 0.031646153846153845 e ci sono 6171 hapax
+Nei primi 196000 token del file Dickens.txt  la distribuzione degli hapax è 0.03152551020408163 e ci sono 6179 hapax
+Nei primi 197000 token del file Dickens.txt  la distribuzione degli hapax è 0.03143654822335026 e ci sono 6193 hapax
+Nei primi 198000 token del file Dickens.txt  la distribuzione degli hapax è 0.031313131313131314 e ci sono 6200 hapax
+Nei primi 199000 token del file Dickens.txt  la distribuzione degli hapax è 0.031231155778894473 e ci sono 6215 hapax
+Nei primi 200000 token del file Dickens.txt  la distribuzione degli hapax è 0.031305 e ci sono 6261 hapax
+Nei primi 201000 token del file Dickens.txt  la distribuzione degli hapax è 0.031154228855721392 e ci sono 6262 hapax
+Nei primi 202000 token del file Dickens.txt  la distribuzione degli hapax è 0.03111881188118812 e ci sono 6286 hapax
+Nei primi 203000 token del file Dickens.txt  la distribuzione degli hapax è 0.031039408866995074 e ci sono 6301 hapax
+Nei primi 204000 token del file Dickens.txt  la distribuzione degli hapax è 0.030887254901960783 e ci sono 6301 hapax
+Nei primi 205000 token del file Dickens.txt  la distribuzione degli hapax è 0.03073170731707317 e ci sono 6300 hapax
+Nei primi 206000 token del file Dickens.txt  la distribuzione degli hapax è 0.030592233009708737 e ci sono 6302 hapax
+Nei primi 207000 token del file Dickens.txt  la distribuzione degli hapax è 0.03052657004830918 e ci sono 6319 hapax
+Nei primi 208000 token del file Dickens.txt  la distribuzione degli hapax è 0.030370192307692306 e ci sono 6317 hapax
+Nei primi 209000 token del file Dickens.txt  la distribuzione degli hapax è 0.030311004784688997 e ci sono 6335 hapax
+Nei primi 210000 token del file Dickens.txt  la distribuzione degli hapax è 0.03028095238095238 e ci sono 6359 hapax
+Nei primi 211000 token del file Dickens.txt  la distribuzione degli hapax è 0.03024170616113744 e ci sono 6381 hapax
+Nei primi 212000 token del file Dickens.txt  la distribuzione degli hapax è 0.030160377358490566 e ci sono 6394 hapax
+Nei primi 213000 token del file Dickens.txt  la distribuzione degli hapax è 0.030070422535211267 e ci sono 6405 hapax
+Nei primi 214000 token del file Dickens.txt  la distribuzione degli hapax è 0.030023364485981308 e ci sono 6425 hapax
+Nei primi 215000 token del file Dickens.txt  la distribuzione degli hapax è 0.02993953488372093 e ci sono 6437 hapax
+Nei primi 216000 token del file Dickens.txt  la distribuzione degli hapax è 0.029842592592592594 e ci sono 6446 hapax
+Nei primi 217000 token del file Dickens.txt  la distribuzione degli hapax è 0.02971889400921659 e ci sono 6449 hapax
+Nei primi 218000 token del file Dickens.txt  la distribuzione degli hapax è 0.029701834862385323 e ci sono 6475 hapax
+Nei primi 219000 token del file Dickens.txt  la distribuzione degli hapax è 0.029616438356164385 e ci sono 6486 hapax
+Nei primi 220000 token del file Dickens.txt  la distribuzione degli hapax è 0.029486363636363637 e ci sono 6487 hapax
+Nei primi 221000 token del file Dickens.txt  la distribuzione degli hapax è 0.029366515837104073 e ci sono 6490 hapax
+Nei primi 222000 token del file Dickens.txt  la distribuzione degli hapax è 0.02927027027027027 e ci sono 6498 hapax
+I bigrammi POS con probabilità condizionata massima nel file Hardy.txt sono:
+('DT', 'WDT') 0.001204658010975773
+('TO', 'JJ') 0.010683229813664596
+('IN', 'PRP$') 0.11809212207964828
+('JJS', 'NN') 0.3927272727272727
+('WP$', 'NN') 0.5081967213114754
+('POS', 'NN') 1.0
+I bigrammi POS con forza associativa massima nel file Hardy.txt sono:
+('DT', 'WDT') -2.210326642216087
+('VB', 'JJR') 1.183449262519291
+('IN', 'PRP$') 2.0428171042848917
+('WP', 'VBZ') 3.1580927803598384
+('PRP', 'VBP') 3.159142484535719
+(':', 'CC') 3.5656397925717034
+('.', "''") 4.4895396770032665
+('FW', 'FW') 7.822188468214539
+I bigrammi POS con probabilità condizionata massima nel file Dickens.txt sono:
+('DT', 'WDT') 0.0003669275929549902
+('TO', 'JJ') 0.005547850208044383
+('UH', 'NN') 0.025423728813559324
+('IN', 'PRP$') 0.11454664591694652
+('JJS', 'NN') 0.42857142857142855
+('WP$', 'NN') 0.5952380952380952
+('$', 'PRP') 1.0
+I bigrammi POS con forza associativa massima nel file Dickens.txt sono:
+('DT', 'WDT') -3.2487016699004925
+('TO', 'JJ') -3.213895539757664
+('VB', 'JJR') 1.3491153350273053
+('(', 'PDT') 1.8394998819935149
+('IN', 'PRP$') 2.163559788039508
+('WP', 'VBZ') 3.643244303713215
+('FW', 'UH') 4.827360613860652
+('FW', 'FW') 6.976649322608665
